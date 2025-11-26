@@ -1,6 +1,10 @@
 C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\App.java
 C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\connection\DBconnection.java
+C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\implementInterface\ViewTransactionImplement.java
+C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\interfaceTransaction\InterfaceTransaction.java
 C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\logic\CheckBalance.java
 C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\logic\DepositBalance.java
-C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\UserManagment\Dashboard.java
+C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\logic\TransactionViewBalance.java
+C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\logic\WithdrawBalance.java
+C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\userManagment\Dashboard.java
 C:\Users\HomePC\Downloads\Bank Teller\my-app\src\main\java\com\mycompany\app\util\PinUtils.java

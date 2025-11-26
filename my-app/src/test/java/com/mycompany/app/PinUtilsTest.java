@@ -8,7 +8,7 @@ public class PinUtilsTest {
 
     @Test
     public void testIsCorrectPin_valid() {
-        assertTrue(PinUtils.isCorrectPin("1234"));
+        assertTrue(PinUtils.isCorrectPin("123456"));
     }
 
     @Test
