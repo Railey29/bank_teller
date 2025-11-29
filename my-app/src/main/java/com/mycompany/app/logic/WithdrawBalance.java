@@ -21,8 +21,6 @@ public class WithdrawBalance {
             return false;
         }
 
-        double newBalance = currentBalance - amount;
-
         String withdrawQuery = "INSERT INTO bank_teller (type, money) VALUES (?, ?)";
 
         Connection conn = DBconnection.getConnection();
