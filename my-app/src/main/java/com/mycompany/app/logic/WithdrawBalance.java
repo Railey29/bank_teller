@@ -31,7 +31,7 @@ public class WithdrawBalance {
         try {
             prepStatement = conn.prepareStatement(withdrawQuery);
             prepStatement.setString(1, "withdraw");
-            prepStatement.setDouble(2, newBalance);
+            prepStatement.setDouble(2, amount);
 
             int rowsInsert = prepStatement.executeUpdate();
             if (rowsInsert > 0) {
